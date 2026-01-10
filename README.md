@@ -83,14 +83,14 @@ Along with:-
 2.Missing skills
 3.Actionable suggestions
 
-🏆 Why This Project Stands Out
+🏆 Why This Project Stands Out ⬇️
 1.Separates ML prediction and AI explanation
 2.Avoids inflated or fake scores
 3.Demonstrates real ATS behavior
 4.Easy to explain to judges and interviewers
 5.Built incrementally with daily Git commits
 
-🔮 Future Enhancements
+🔮 Future Enhancements :-
 1.PDF & image resume parsing using OCR
 2.Semantic embeddings (Sentence-BERT / Gemini embeddings)\
 3.Web or mobile application interface
