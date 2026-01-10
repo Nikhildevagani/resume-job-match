@@ -1,2 +1,4 @@
-I am an AIML student skilled in Python, Machine Learning, Data Analysis,
-NLP, and model evaluation using scikit-learn.
+Machine Learning Engineer skilled in Python, Machine Learning, NLP,
+text preprocessing, TF-IDF, cosine similarity, feature engineering,
+scikit-learn, data analysis, and model evaluation.
+Built ML pipelines for resume and job matching systems.

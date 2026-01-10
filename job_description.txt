@@ -1,2 +1,4 @@
-We are looking for a Machine Learning Engineer with experience in Python,
-NLP, model development, and data preprocessing.
+We are looking for a Machine Learning Engineer with strong experience in
+Python, Machine Learning, NLP, text preprocessing, TF-IDF,
+cosine similarity, feature engineering, scikit-learn,
+and building ML pipelines for matching systems.
